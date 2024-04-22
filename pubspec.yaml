@@ -1,0 +1,7 @@
+name: main_repo
+
+environment:
+  sdk: ">=2.18.2 <=3.16.6"
+
+dev_dependencies:
+  melos: ^3.4.0

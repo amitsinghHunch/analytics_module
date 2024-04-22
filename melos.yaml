@@ -1,0 +1,6 @@
+name: hunch
+
+packages:
+  - packages/**
+  - apps/**
+  - .

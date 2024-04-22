@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages/flutter_share_me/melos_flutter_share_me.iml" filepath="$PROJECT_DIR$/packages/flutter_share_me/melos_flutter_share_me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/google_mobile_ads/melos_google_mobile_ads.iml" filepath="$PROJECT_DIR$/packages/google_mobile_ads/melos_google_mobile_ads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/hunch_analyitcs/melos_hunch_analyitcs.iml" filepath="$PROJECT_DIR$/packages/hunch_analyitcs/melos_hunch_analyitcs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages/lecle_social_share-0.5.3/melos_lecle_social_share.iml" filepath="$PROJECT_DIR$/packages/lecle_social_share-0.5.3/melos_lecle_social_share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_main_repo.iml" filepath="$PROJECT_DIR$/melos_main_repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/frontend/melos_pollx.iml" filepath="$PROJECT_DIR$/apps/frontend/melos_pollx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_hunch.iml" filepath="$PROJECT_DIR$/melos_hunch.iml" />
+    </modules>
+  </component>
+</project>

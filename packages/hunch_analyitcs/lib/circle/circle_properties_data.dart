@@ -1,0 +1,36 @@
+class CirclePropertiesData {
+  String circlesMenu = "circles_menu";
+  String circlesOnboarding = "circles_onboarding";
+  String invitePeopleCta = "invite_people_cta";
+  String whatsApp = "whatsApp";
+  String todaysQuestion = "todays_question";
+  String shuffleNames = "shuffle_names";
+  String spotlight = "spotlight";
+  String memberList = "member_list";
+  String inviteScreen = "invite_screen";
+  String plusIcon = "plus_icon";
+  String imageUpdate = "image_update";
+  String nameUpdate = "name_update";
+  String yes = "yes";
+  String no = "no";
+  String circleHome = "circle_home";
+  String circleWipeout = "circle_wipeout";
+  String userRemoved = "user_removed";
+  String joined = "joined";
+  String yetToJoin = "yet_to_join";
+  String notifications = "notifications";
+  String topCreators = "top_creators";
+  String picksAndReveal = "picks_and_reveal";
+  String circleNotificationPill = "circle_notification_pill";
+  String bottomNav = "bottom_nav";
+  String question = "question";
+  String pickedCard = "picked_card";
+  String allTime = "all_time";
+  String yesterday = "yesterday";
+  String today = "today";
+  String past = "past";
+  String letsStartPopup = "lets_start_popup";
+  String tenQuestionPopup = "10_question_popup";
+  String mostLikelyTo = "Most Likely To";
+  String compliments = "Compliments";
+}
